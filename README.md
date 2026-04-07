@@ -2,7 +2,7 @@
 
 > Turn **"I want to learn X"** into a structured, visual, adaptive learning journey.
 
-LearnFlow is a production-grade Next.js app that generates **personalized, time-optimized learning roadmaps** and renders them as an **interactive graph** you can actually follow. Built for the hackathon, designed to ship.
+LearnFlow is a production-grade Next.js app that generates **personalized, time-optimized learning roadmaps** and renders them as an **interactive graph** you can actually follow. Built for the hackathon,designed to ship.
 
 ---
 
