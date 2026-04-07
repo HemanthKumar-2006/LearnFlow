@@ -127,7 +127,7 @@ store/
 - **Landing page → futuristic.** Dark, neon, glassmorphism, animated particle graph. The job is to hook judges in 3 seconds.
 - **App interface → calm.** Light, Notion/Linear-inspired SaaS. Nothing should fight the user when they're trying to focus.
 
-Two visual modes, one app, deliberate contrast.
+Two visual modes, one app, deliberate contrast..
 
 ---
 
